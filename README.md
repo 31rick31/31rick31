@@ -4,8 +4,6 @@
 
 From Castle Rock, Colorado, I am an iOS developer driven by a deep passion for technology and coding, especially the Swift programming language. Besides my love for iOS development, I also have experience in web development. I enjoy problem-solving and creating apps that are both practical and innovative. My goal is always to keep learning and stay up-to-date with new advancements in technology.
 
----
-
 <h1 align="center">Skills</h1>
 
 <h3 align="center">Mobile Development Languages</h3>
@@ -40,8 +38,6 @@ From Castle Rock, Colorado, I am an iOS developer driven by a deep passion for t
   </a>
 </p>
 
----
-
 <h1 align="center">Connect</h1>
 
 <p align="center">
@@ -53,5 +49,4 @@ From Castle Rock, Colorado, I am an iOS developer driven by a deep passion for t
   </a>
 </p>
 
----
 
