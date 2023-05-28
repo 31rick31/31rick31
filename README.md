@@ -55,6 +55,9 @@ From Castle Rock, Colorado, I am an iOS developer driven by a deep passion for t
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=31rick31&theme=swift" />
   </a>
+</p>
+
+<p align="center">
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=31rick31&theme=swift&show_icons=true" />
   </a>
