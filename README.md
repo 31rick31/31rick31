@@ -49,8 +49,6 @@ From Castle Rock, Colorado, I am an iOS developer driven by a deep passion for t
   </a>
 </p>
 
-<<<<<<< Updated upstream
-=======
 <h1 align="center">Stats</h1>
 
 <p align="center">
@@ -63,5 +61,3 @@ From Castle Rock, Colorado, I am an iOS developer driven by a deep passion for t
 </p>
 
 ---
->>>>>>> Stashed changes
-
